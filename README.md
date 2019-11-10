@@ -8,3 +8,5 @@ Videos should get posted at https://www.youtube.com/channel/UClPT7QI0LysICC2nm41
 
 These presentations were scrapped out of the Slack channels used for the various tracks for ADDO 2019.
 
+Corrections, additions and updates are welcome - make those via a PR or Github issue.
+
