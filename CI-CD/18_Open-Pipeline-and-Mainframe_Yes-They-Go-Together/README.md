@@ -8,5 +8,8 @@ Track: CI/CD
 
 Topic: State Farm's Top Picks
 
+Links from Slack:
 
+https://www.ibm.com/support/knowledgecenter/en/SSKFYE_1.0.0/zoautil_purpose.html
 
+https://www.ibm.com/support/knowledgecenter/en/SSKFYE_1.0.0/javadoc_zoautil/index.html

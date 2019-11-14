@@ -8,5 +8,6 @@ Track: CI/CD
 
 Topic: DevOps Pipeline
 
+Links from Slack:
 
-
+https://github.com/dmaillet63/sample

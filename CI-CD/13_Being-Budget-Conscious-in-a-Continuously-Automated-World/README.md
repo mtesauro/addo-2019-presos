@@ -8,5 +8,10 @@ Track: CI/CD
 
 Topic: Test Automation
 
+Links from Slack:
 
+https://gitlab.com/vtimd/addo-script
 
+https://github.com/vmwarecloudadvocacy/acme_fitness_demo
+
+https://www.cloudjourney.io/about/

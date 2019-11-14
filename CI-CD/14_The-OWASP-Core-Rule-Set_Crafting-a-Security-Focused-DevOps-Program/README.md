@@ -8,5 +8,6 @@ Track: CI/CD
 
 Topic: OWASP Projects
 
+Links from Slack:
 
-
+http://coreruleset.org/
